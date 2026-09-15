@@ -7,13 +7,18 @@ claude.ai 채팅에서 초안 작업을 진행하다가, 버전 관리와 지속
 
 전체 커리큘럼은 0부(도입)부터 4부(공급)까지 5개 파트로 구성됩니다.
 
-| 파트 | 제목 | 상태 |
-|---|---|---|
-| [0부](curriculum/00_intro.md) | 가스, 보이지 않지만 무기가 되다 (시장/지정학) | ✅ 완료 |
-| [1부](curriculum/01_definition.md) | Gas 소재 정의 및 분류 | ✅ 완료 |
-| [2부](curriculum/02_manufacturing.md) | 가스 소재 제조방법 | ✅ 완료 |
-| [3부](curriculum/03_analysis_qc.md) | 가스 분석 및 품질관리 | ✅ 완료 |
-| [4부](curriculum/04_supply.md) | 가스 공급 방식 및 공정 | 🟡 4-1, 4-2 완료 / **4-3(8대 공정, ESG) 미작성** |
+| 파트 | 제목 | 문어체 원본 | 말하기 버전 | 상태 |
+|---|---|---|---|---|
+| 0부 | 가스, 보이지 않지만 무기가 되다 (시장/지정학) | [원본](curriculum/00_intro.md) | [말하기](curriculum/00_intro_speech.md) | ✅ 완료 |
+| 1부 | Gas 소재 정의 및 분류 | [원본](curriculum/01_definition.md) | [말하기](curriculum/01_definition_speech.md) | ✅ 완료 |
+| 2부 | 가스 소재 제조방법 | [원본](curriculum/02_manufacturing.md) | [말하기](curriculum/02_manufacturing_speech.md) | ✅ 완료 |
+| 3부 | 가스 분석 및 품질관리 | [원본](curriculum/03_analysis_qc.md) | [말하기](curriculum/03_analysis_qc_speech.md) | ✅ 완료 |
+| 4부 (4-1, 4-2) | 가스 공급 방식 및 공정 | [원본](curriculum/04_supply.md) | [말하기](curriculum/04_supply_speech.md) | ✅ 완료 |
+| 4부 (4-3) | 가스 사용 공정(8대 공정), ESG | — | — | 🟡 **미작성** |
+
+## 말하기 버전이란?
+
+실제 발표 연습 결과, 문어체 대본은 문장이 길고 전문용어 전환이 매끄럽지 않아 말로 옮기기 어렵다는 피드백에 따라 만든 **구어체 발표용 버전**입니다. 각 파트마다 `_speech.md` 파일로 원본과 나란히 관리합니다. 변환 원칙은 [`curriculum/SPEECH_GUIDE.md`](curriculum/SPEECH_GUIDE.md)에 정리되어 있습니다.
 
 ## 자료
 
