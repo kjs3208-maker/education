@@ -13,8 +13,12 @@ claude.ai 채팅에서 초안 작업을 진행하다가, 버전 관리와 지속
 | 1부 | Gas 소재 정의 및 분류 | [원본](curriculum/01_definition.md) | [말하기](curriculum/01_definition_speech.md) | ✅ 완료 |
 | 2부 | 가스 소재 제조방법 | [원본](curriculum/02_manufacturing.md) | [말하기](curriculum/02_manufacturing_speech.md) | ✅ 완료 |
 | 3부 | 가스 분석 및 품질관리 | [원본](curriculum/03_analysis_qc.md) | [말하기](curriculum/03_analysis_qc_speech.md) | ✅ 완료 |
-| 4부 (4-1, 4-2) | 가스 공급 방식 및 공정 | [원본](curriculum/04_supply.md) | [말하기](curriculum/04_supply_speech.md) | ✅ 완료 |
-| 4부 (4-3) | 가스 사용 공정(8대 공정), ESG | — | — | 🟡 **미작성** |
+| 4부 (4-1, 4-2, 4-3) | 가스 공급 방식 및 공정 + 8대 공정 가스 | [원본](curriculum/04_supply.md) | [말하기](curriculum/04_supply_speech.md) | ✅ 완료 (⚠️ 4-3은 검증 필요, 아래 참고) |
+| 4부 ESG | 온실가스·자원낭비 대응 | — | — | ⛔ **범위 제외** (요청에 따라 작성 안 함) |
+
+**[📖 0부~4-3 통합 대본 (전체본)](curriculum/FULL_SCRIPT.md)** — 모든 파트의 말하기 버전을 하나로 이어 붙인 리허설용 파일.
+
+> ⚠️ **4-3(8대 공정별 가스) 검증 필요**: 산화·포토·식각·박막증착·이온주입·세정·금속배선·EDS 각각에 쓰이는 가스·반응식은 상세 사내 자료 없이 일반적으로 알려진 대표 사례를 바탕으로 예상 작성했습니다. 실제 강의 전 사내 공정 스펙과 반드시 대조 검증해주세요.
 
 ## 말하기 버전이란?
 
